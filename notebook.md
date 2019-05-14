@@ -19,7 +19,7 @@ The Summer Course started yesterday. We:
 
 Here is a cool picture of Coconut Island.
 
-![HIMB](HIMB/Unknown.jpeg)
+![HIMB](Unknown.jpeg)
 
 Here is a formula that is interesting:
 
@@ -40,3 +40,5 @@ Today, we are doing an R Module. We learned:
 -   How to commit and push files to GitHub
 -   What GitHub allows us to do
 -   Many, many more amazing ways to use R Markdown and Git & GitHub
+
+Very trying morning. Here we are.
