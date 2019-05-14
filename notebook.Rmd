@@ -1,0 +1,33 @@
+---
+title: "Notebook"
+author: "Me"
+date: "5/14/2019"
+output: html_document
+---
+
+# Jessie's Notebook
+
+## Day 2 - R Module
+
+The Summer Course started yesterday. We: 
+
+- Ran over introductions
+- Island Tour
+- Students went shopping
+
+[Here is a helpful website for equations](https://www.calvin.edu/~rpruim/courses/s341/S17/from-class/MathinRmd.html)
+
+Here is a cool picture of Coconut Island. 
+
+![HIMB](HIMB/Unknown.jpeg)
+
+
+Here is a formula that is interesting: 
+
+$$ x^2 = \frac{y^2}{z^2} $$
+
+```{r}
+hist(rnorm(1000))
+```
+
+> Figure 1: Histogram of ant heights
