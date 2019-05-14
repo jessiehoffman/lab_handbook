@@ -31,3 +31,5 @@ hist(rnorm(1000))
 ```
 
 > Figure 1: Histogram of ant heights
+
+Today, we are doing an R Module. 
